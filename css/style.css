@@ -1,6 +1,28 @@
 body
 {
-    color: blue;
+    display: flex;
+    justify-content: center;
+    color: black;
     text-align: center;
     font-size: 15px;
+}
+
+html
+{
+    font-size: 62.5%;
+}
+
+.blog-post
+{
+    min-width: 300px;
+    font-size: 2rem;
+    border: 1px solid green;
+    border-radius: 5px;
+    width: 50%;
+    text-align: left;
+}
+
+.blog-post__hijo
+{
+    padding: 10px;
 }
