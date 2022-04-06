@@ -4,4 +4,4 @@ Además, quiere ser un gran jugador de basket y programador.
 
 Made in Colombia mijo :)
 
-Estoy probando git reset HEAD
+Estoy probando git reset HEAD h
