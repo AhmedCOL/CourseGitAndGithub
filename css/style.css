@@ -1,7 +1,5 @@
 body
 {
-    display: flex;
-    justify-content: center;
     color: black;
     text-align: center;
     font-size: 15px;
@@ -12,15 +10,30 @@ html
     font-size: 62.5%;
 }
 
+.header
+{
+    width: 30%;
+    font-size: 2rem;
+    margin: 0 auto;
+    background-color: aqua;
+    height: auto;
+    font-weight: bold;
+}
+
 .blog-post
 {
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
+=======
+    display: inline-block;
+>>>>>>> header
     min-width: 300px;
     font-size: 2rem;
     border: 1px solid green;
     border-radius: 5px;
     width: 50%;
     text-align: left;
+    margin: 0 auto;
 }
 
 .blog-post__hijo
