@@ -1,3 +1,8 @@
+:root 
+{
+    --color-primary: #83BD75;
+}
+
 body
 {
     color: black;
@@ -12,12 +17,20 @@ html
 
 .header
 {
-    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
     font-size: 2rem;
     margin: 0 auto;
-    background-color: red;
+    background-color: var(--color-primary);
     height: auto;
     font-weight: bold;
+    align-items: center;
+}
+
+.header p
+{
+    margin-right: 20px;
 }
 
 .blog-post
@@ -25,7 +38,7 @@ html
     font-family: Arial, Helvetica, sans-serif;
     min-width: 300px;
     font-size: 2rem;
-    border: 1px solid green;
+    border: 1px solid var(--color-primary);
     border-radius: 5px;
     width: 50%;
     text-align: left;
