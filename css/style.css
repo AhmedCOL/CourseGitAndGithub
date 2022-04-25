@@ -36,3 +36,14 @@ html
 {
     padding: 10px;
 }
+
+.footer
+{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 50%;
+    background-color: #4E944F;
+    font-size: 2rem;
+}
