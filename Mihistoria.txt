@@ -14,3 +14,5 @@ estudiando, no como loco, pero si esforzarme para saber que las cosas vienen es 
 Necesito saber que todo esta bien #BlackLivesMatter
 
 Vamos haciendo cositas
+
+Git rebase
