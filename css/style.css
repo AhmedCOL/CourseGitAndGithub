@@ -60,3 +60,9 @@ html
     background-color: var(--color-primary);
     font-size: 2rem;
 }
+
+.ImageLogoGiant
+{
+    display: flex;
+    justify-content: center;
+}
