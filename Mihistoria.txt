@@ -15,8 +15,3 @@ Necesito saber que todo esta bien #BlackLivesMatter
 
 Vamos haciendo cositas
 
-Experimento 2
-
-Experimento 1
-
-Git rebase 1Git rebase 2
