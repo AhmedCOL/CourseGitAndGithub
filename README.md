@@ -6,4 +6,4 @@ Si lo quieres tomar por acá te dejo en enlance: [Curso Completo](http://https:/
 * Estaré probando cherry pick :3
 * Vamos a ver que puede pasar 
 * Credítos a la rama Readme-mejorado
-* Freddy es god!
+* Freddy es god! 
